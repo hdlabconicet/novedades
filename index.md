@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-# Welcome
+# Novedades del HDLAB CONICET
 
-Hello World. Hello Friend.
-
+En este sitio encontraras nuestras últimas novedades.

@@ -1,12 +1,12 @@
-domain: example.com
-url: https://example.com
-baseurl: "/wind"
+domain: https://rominicky.github.io/prueba-posthdlab2/
+url: https://rominicky.github.io/prueba-posthdlab2/
+baseurl: "/novedades"
 
-title: Wind
-email: wind@example.com
-author: Wind Sample
+title: Novedades HDLAB CONICET
+email: hdlabconicet@gmail.com
+author: Romina De León
 
-lang: en
+lang: sp
 
 plugins:
   - jekyll-seo-tag
@@ -16,6 +16,6 @@ color: "#13ccf9"
 #   shortname: example-com
 #
 rrss:
-  email: "example@example.cl"
-  telegram: "https://t.me/"
-  discord: "https://discord.com/"
+  email: "hdlabconicet@gmail.com"
+  facebook: "https://www.facebook.com/HDLAB.CONICET/"
+  github: "https://github.com/hdlabconicet"
