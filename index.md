@@ -1,6 +1,5 @@
 ---
 layout: home
+title: Inicio
 ---
-# Novedades del HDLAB CONICET
-
 En este sitio encontraras nuestras últimas novedades.

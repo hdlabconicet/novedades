@@ -1,16 +1,17 @@
-domain: https://rominicky.github.io/prueba-posthdlab2/
-url: https://rominicky.github.io/prueba-posthdlab2/
-baseurl: "/novedades"
+
+url: https://rominicky.github.io/
+baseurl: "/prueba-posthdlab2"
 
 title: Novedades HDLAB CONICET
 email: hdlabconicet@gmail.com
 author: Romina De León
 
-lang: sp
+lang: es
 
 plugins:
   - jekyll-seo-tag
 
+theme: jekyll-theme-wild
 color: "#13ccf9"
 # disqus:
 #   shortname: example-com
