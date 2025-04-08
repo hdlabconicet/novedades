@@ -2,4 +2,5 @@
 layout: home
 title: Inicio
 ---
-En este sitio encontraras nuestras últimas novedades.
+
+# Novedades del HD Lab CONICET
