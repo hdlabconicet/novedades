@@ -1,0 +1,28 @@
+---
+
+layout: base
+title: Tags
+permalink: /tags/
+
+---
+
+<h1 class="text-2xl md:text-4xl xl:text-5xl text-center py-6 md:p-6">Tags</h1>
+{% assign tags = site.tags | sort %}
+<!-- <ul>
+  {% for tag in tags %}
+    <li class="mb-2">
+      <a class="text-blue-600 hover:text-blue-800" href="#{{ tag[0] }}">#{{ tag[0] }}</a> ({{ tag[1].size }})
+    </li>
+  {% endfor %}
+</ul> -->
+
+{% for tag in tags %}
+  <h2 id="{{ tag[0] }}" class="text-lg mt-6 mb-2 font-semibold">#{{ tag[0] }}</h2>
+  <ul>
+    {% for post in tag[1] %}
+      <li>
+        <a class="text-slate-900 hover:underline dark:text-slate-100" href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

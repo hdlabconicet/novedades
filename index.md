@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Inicio
+
 ---
 
-# Novedades del HD Lab CONICET
+## Novedades del HDLAB CONICET
