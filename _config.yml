@@ -11,8 +11,10 @@ lang: es
 plugins:
   - jekyll-seo-tag
 
-theme: jekyll-theme-wild
+theme: null
 color: "#13ccf9"
+
+
 # disqus:
 #   shortname: example-com
 #
