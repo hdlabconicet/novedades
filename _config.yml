@@ -1,5 +1,5 @@
 
-url: https://hdlab.space/
+url: "https://hdlab.space"
 baseurl: "/novedades"
 
 title: Novedades
@@ -12,6 +12,14 @@ plugins:
 
 theme: null
 color: "#13ccf9"
+
+exclude:
+  - README.md
+  - .github
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
 
 repository: hdlabconicet/novedades
 
