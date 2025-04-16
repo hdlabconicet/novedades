@@ -4,4 +4,4 @@ permalink:
 
 ---
 
-## Novedades del HDLAB CONICET
+## Novedades del HD LAB CONICET
