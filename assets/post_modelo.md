@@ -1,17 +1,21 @@
 ---
 layout: post
-title: 'Este post es una prueba'
-image: /assets/images/example4.jpg
+title: 'Global Symposium 2025'
+image: /assets/images/global_sumposium2025.png
 tags:
-  - theme
-  - documentation
+  - Colaboración
+  - Construcción de comunidad
 ---
 
-If you like it please think on supporting my job:
+el [Global Symposium 2025](https://msuglobaldh.org) If you like it please think on supporting my job:
 
 <a href="https://www.buymeacoffee.com/achacon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-![Theme Logo or Screenshot](https://i.postimg.cc/PqYsQX71/Wind-Write-an-awesome-description-for-your-new-site-here-You-can-edit-this-line-in-config-yml-It.png)
+![imagen1](/assets/images/globalsymposium1.JPG)
+
+
+
+
 ## Description
 
 Wind is a clean, minimalistic Jekyll theme designed to offer a delightful blogging experience. With a focus on simplicity and aesthetics, Wind brings an elegant touch to your blog or personal website.
