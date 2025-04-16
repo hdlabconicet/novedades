@@ -1,9 +1,9 @@
 
-url: https://rominicky.github.io/
-baseurl: "/prueba-posthdlab2"
+url: https://hdlabconicet.github.io/
+baseurl: "/novedades"
 
 title: Novedades
-author: Romina De León
+author: HD LAB CONICET
 
 lang: es
 
@@ -13,7 +13,7 @@ plugins:
 theme: null
 color: "#13ccf9"
 
-repository: rominicky/prueba-posthdlab2
+repository: hdlabconicet/novedades
 
 # disqus:
 #   shortname: example-com
