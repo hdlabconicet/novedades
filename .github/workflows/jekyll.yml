@@ -29,7 +29,7 @@ jobs:
           bundle install
 
       - name: Build the site with Jekyll
-        run: bundle exec jekyll build --baseurl "/prueba-posthdlab2"
+        run: bundle exec jekyll build --baseurl "/novedades"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
