@@ -12,5 +12,3 @@ Entre los días 02 y 08 de abril se llevó a cabo el [10° Global Symposium 2025
 ![imagen1]({{ '/assets/images/globalsymposium2.jpg' | relative_url }})
 
 ![imagen2]({{ '/assets/images/globalsymposium1.png' | relative_url }})
-
-<img src="/assets/images/globalsymposium1.png" alt="">

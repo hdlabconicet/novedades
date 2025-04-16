@@ -11,7 +11,7 @@ el [Global Symposium 2025](https://msuglobaldh.org) If you like it please think 
 
 <a href="https://www.buymeacoffee.com/achacon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-![imagen1](/assets/images/globalsymposium1.JPG)
+![imagen2]({{ '/assets/images/globalsymposium2.jpg' | relative_url }})
 
 
 
