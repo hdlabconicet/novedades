@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Annual Conference 2025 | Futures of Doing Literature'
-image: /assets/images/DH2025.jpg
+image: /assets/images/logo-exc-doing-literature.jpg
 tags:
   - Difusión
   - Construcción del comunidad
