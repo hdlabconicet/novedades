@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nueva edición digital de Comentarios de Álvar Núñez Cabeza de Vaca'
-image: /assets/images/glamlab.png
+image: /assets/images/comentarios.jpg
 tags:
   - Enriquecimiento
   - Preservación
@@ -18,4 +18,5 @@ A través de una digital selectiva, historias visuales georreferenciadas y anál
         width="100%" 
         height="600" 
         style="border:none; border-radius: 8px;">
+
 </iframe>
