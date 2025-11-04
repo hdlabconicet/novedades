@@ -12,7 +12,7 @@ Ente los días 05 y 07 de agosto, la Lic. Laura Voldkin, miembro del HD Lab, par
 
 Dicho evento, de modalidad híbrida y cuatro horas de duración, estuvo dirigido a equipos de investigación de institutos y proyectos bibliotecológicos e investigadores de distintos institutos y universidades nacionales e internacionales. Su objetivo fue identificar modelos de integración para vocabularios controlados y poner en práctica las rutinas de gestión del ciclo de desarrollo de terminologías.
 
-![Taller](/assets/images/taller-inibi.jpg)
+![Taller]({{ site.baseurl }}/assets/images/taller-inibi.jpg)
 
 <!-- <iframe src="https://url/" 
         width="100%" 
