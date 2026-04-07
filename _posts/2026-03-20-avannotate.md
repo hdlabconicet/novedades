@@ -17,4 +17,4 @@ El seminario se dividió es dos etapas: durante la primera parte cada participan
         height="600" 
         style="border:none; border-radius: 8px;">
 </iframe> -->
-![img](/assets/images/avannotate.jpeg)
+![img]({{ site.baseurl }}/assets/images/avannotate.jpeg)
