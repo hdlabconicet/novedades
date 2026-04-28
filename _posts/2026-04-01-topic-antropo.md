@@ -16,4 +16,4 @@ En el marco de las actividades académicas del HDLab, el lunes 30 de marzo se re
 
 Estas actividades se inscriben en la agenda de formación e intercambio del Laboratorio que tienen como objetivo fortalecer el cruce entre humanidades digitales, análisis computacional y estudios culturales contemporáneos.
 
-![imagen1](/assets/images/fhleo.jpeg)
+![imagen](https://hdlab.space/novedades/assets/images/fhleo.jpeg)
