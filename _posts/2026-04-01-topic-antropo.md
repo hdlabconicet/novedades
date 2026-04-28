@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Del Topic Modelling al Antropoceno'
-image: /assets/images/diplo-uces.png
+image: /assets/images/topic_.png
 tags:
   - Difusión
   - Enseñanza / Aprendizaje
@@ -16,4 +16,4 @@ En el marco de las actividades académicas del HDLab, el lunes 30 de marzo se re
 
 Estas actividades se inscriben en la agenda de formación e intercambio del Laboratorio que tienen como objetivo fortalecer el cruce entre humanidades digitales, análisis computacional y estudios culturales contemporáneos.
 
-![imagen1](https://hdlab.space/assets/img/explora/topic_words_pelagios.png)
+![imagen1](/assets/images/fhleo.jpeg)
