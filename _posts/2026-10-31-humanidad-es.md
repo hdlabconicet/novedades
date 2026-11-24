@@ -15,4 +15,4 @@ Dicho proyecto será coordinado por el Dr. Ricardo Pichel y la Dra. Almudena Vid
 
 __Humanidad-ES__ proyecta la creación de una plataforma que facilite el acceso a corpus textuales y herramientas digitales para la investigación y la enseñanza en español. Por lo cual, el objetivo será reunir y conectar recursos que por estos días se encuentran de manera dispersa, y con ello mejorar su descripción y facilitar su consulta, análisis y reutilización, respetando la diversidad de las tradiciones culturales y lingüísticas del mundo hispanohablante.
 
-Para más información sobre el proyecto puede acceder al siguiente [link](https://www.uned.es/universidad/facultades/departamentos/literatura-espanola-y-teoria-de-la-literatura/noticias/mostrarnoticia?noticia=la-uned-liderara-el-proyecto-europeo-humanidad-es-una-red-internacional-de-humanidades-digitales)
+Para más información sobre el proyecto puede acceder al siguiente [link](https://www.uned.es/universidad/facultades/departamentos/literatura-espanola-y-teoria-de-la-literatura/noticias/mostrarnoticia?noticia=la-uned-liderara-el-proyecto-europeo-humanidad-es-una-red-internacional-de-humanidades-digitales).
